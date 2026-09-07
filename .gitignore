@@ -1,0 +1,28 @@
+﻿# Dependencies & build
+node_modules/
+*.zip
+*.tar.gz
+
+# Private Raw Datasets & Draft Notes
+toan6_tap1.md
+toan6_tap2.md
+final_context.md
+context*.md
+tham_khao.txt
+*.txt
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.tmp/
+scratch/
