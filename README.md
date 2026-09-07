@@ -1,11 +1,14 @@
-﻿# 📐 Toán 6 KNTT - Nền Tảng Học Tập & Luyện Đề Toàn Diện
+# 📐 Toán 6 KNTT - Nền Tảng Học Tập & Luyện Đề Toàn Diện
+
+[![Netlify Status](https://img.shields.io/badge/Netlify-Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://math6-kntt.netlify.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 > Ứng dụng web học tập tương tác bám sát chương trình **Toán 6 - Kết Nối Tri Thức Với Cuộc Sống (Tập 1 & Tập 2)**, tích hợp ngân hàng trắc nghiệm chuẩn hóa, đề thi định kỳ các tỉnh và sổ tay tra cứu công thức toán học SVG trực quan.
 
 ---
 
 ## 🌐 Trải Nghiệm Sản Phẩm Trực Tiếp
-- 👉 **Website:** *[Cập nhật link Netlify của bạn tại đây]*
+- 👉 **Website chính thức:** [https://math6-kntt.netlify.app/](https://math6-kntt.netlify.app/)
 - 📱 **Hỗ trợ thiết bị:** Tối ưu hóa mượt mà trên cả Máy tính (Desktop), Máy tính bảng (Tablet) và Điện thoại di động (Mobile).
 
 ---
