@@ -1,5 +1,7 @@
 ﻿# Dependencies & build
 node_modules/
+dist/
+netlify.toml
 *.zip
 *.tar.gz
 
